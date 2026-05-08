@@ -2,6 +2,14 @@
   "version": 1,
   "templates": [
     {
+      "id": "vue-springboot-fullstack",
+      "type": "spec",
+      "name": "vue + Spring Boot +java",
+      "description": "使用vuejs springboot的前后端分离全栈",
+      "path": "specs/vue-springboot-fullstack",
+      "tags": ["java", "vue", "springboot", "mysql", "mybatis"]
+    },
+    {
       "id": "electron-fullstack",
       "type": "spec",
       "name": "Electron + React + TypeScript",
